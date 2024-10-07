@@ -8,7 +8,7 @@
     Title="AcreMG">
 
     <ShellContent
-        Title="Home"
+        Title="Acre"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
